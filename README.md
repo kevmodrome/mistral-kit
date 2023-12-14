@@ -9,7 +9,7 @@ It's obviously not perfect. Sometimes the responses are not ideal and the previe
 ## Run it!
 
 0. Install `pnpm i`
-1. Install ollama and pick your model. I used mistral-7b.
+1. Install [Ollama](https://ollama.ai) and pick your model. I used mistral-7b.
 2. Run project `pnpm run dev`
 3. Prompt!
 4. Profit!
