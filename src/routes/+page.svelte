@@ -14,8 +14,6 @@
 		return async ({ result }) => {
 			applyAction(result);
 			loading = false;
-			// `result` is an `ActionResult` object
-			// `update` is a function which triggers the default logic that would be triggered if this callback wasn't set
 		};
 	};
 </script>
